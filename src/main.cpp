@@ -9,7 +9,6 @@
 #include <SpotifyArduinoCert.h>
 #include <HTTPClient.h>
 #include "test_img.h"
-#include "test_img2.h"
 #include "secrets.h"
 
 // LVGL & LCD Drivers

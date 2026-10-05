@@ -40,4 +40,4 @@ https://gcc.gnu.org/onlinedocs/cpp/Header-Files.html
 
 Copy `secrets.h.example` to `secrets.h` and fill in the Wi-Fi and Spotify
 credentials. `secrets.h` is ignored by Git; keep real credentials out of
-tracked files and commits.
+tracked files and commits. See the project root README for setup instructions.
